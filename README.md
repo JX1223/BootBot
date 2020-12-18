@@ -1,4 +1,4 @@
-**Welcome to BootBot!**\
+## Welcome to BootBot!\
 To run the simulator, open "demoScript.m" and run.
 
 Made by:\
