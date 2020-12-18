@@ -1,5 +1,4 @@
 function ds = combinedDynamics(t,s,C)
-t
 target_type = 'b';
 % global mcart
 global kickStart kickEnd pos_est vel_est
