@@ -1,0 +1,1 @@
+[t5, s5] = ode45(@combinedDynamics,[5.1-0.5+6*eps 5],s0);
